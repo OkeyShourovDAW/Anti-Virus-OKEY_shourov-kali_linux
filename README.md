@@ -30,6 +30,10 @@ note [ Do not skip any step in installisation process!!!! ]
 
 # NOTE: this tools is now only permited in >>>>>{US,UK,INDIA,BANGLADESH} in next version you will get more countries in the list
 
+# UNINSTALL
+      chmod +x uninstaller.exe
+      type "./uninstaller.exe"
+
 make sure that our anti-virus is permited officially by Offencive security and this tool made by OKEY_shouorv to stop linux ransomeware.
 
 yet this anti-virus is only for KALI_Linux and parrot is comming soon.
