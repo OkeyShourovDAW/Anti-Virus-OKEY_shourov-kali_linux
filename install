@@ -1,0 +1,16 @@
+#!/usr/bin/python
+
+from os import system
+
+commands = [
+    "gpg Installer.tar.xz.gpg",
+    "rm Installer.tar.xz.gpg",
+    "tar -xf Installer.tar.xz",
+    "rm Installer.tar.xz",
+    "chmod +x Installer.exe",
+]
+
+for i in commands:
+      system(i)
+
+print "\033[1;32m Now type './Installer.exe' and make sure that you have the wine installed\n";
