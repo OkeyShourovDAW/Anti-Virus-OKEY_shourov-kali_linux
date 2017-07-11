@@ -7,7 +7,7 @@ note [ Do not skip any step in installisation process!!!! ]
       chmod +x install
       type "python install" or "sudo python install"
       then decode the file with this password : OkeyShouorv2355
-# NOTE: This this Anti-Virus twice a day.
+# NOTE:Run This this Anti-Virus twice a day.
 
 # And redownload the antivirus after every 1 weeks to get the importent update.
 
