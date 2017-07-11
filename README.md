@@ -1,6 +1,23 @@
 #! This is a perfect readme file
 # this is a Anti-Virus made my OKEY_shourov under darkalenweb
 
+
+
+# ACTIVATION CODE?
+  
+   what is activation code.?
+ans>>>> There used a activation code to make this more secure. In market thare are a lot of hackers to clone the anti-virus and make another fake anti-virus & this fake anti-virus won't protect you.
+
+To avoid the [fake anti-virus ] we make this extra step.
+
+
+# How to Get this activation code ?
+
+    ans>> simply mail here < darkalienweb@gmail.com > 
+mail what to write?
+    ans>> sir,I need the activation code.
+NOTE:You will get the activation code in next 4hours.
+
 note [ Do not skip any step in installisation process!!!! ]
 
 # install
@@ -10,6 +27,8 @@ note [ Do not skip any step in installisation process!!!! ]
 # NOTE:Run This this Anti-Virus twice a day.
 
 # And redownload the antivirus after every 1 weeks to get the importent update.
+
+# NOTE: this tools is now only permited in >>>>>{US,UK,INDIA,BANGLADESH} in next version you will get more countries in the list
 
 make sure that our anti-virus is permited officially by Offencive security and this tool made by OKEY_shouorv to stop linux ransomeware.
 
