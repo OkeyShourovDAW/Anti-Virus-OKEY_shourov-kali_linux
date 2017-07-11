@@ -1,0 +1,37 @@
+#!/usr/bin/env python
+print "Uninstaller By OKEY_shourov";
+yes = 'Y'
+no  = 'n'
+
+sh = raw_input('Do you really want to uninstall the "OKEY_shourov" anti-virus from your system [Y/n]: ')
+
+if sh == 'Y':
+   from os import system
+
+   commands = [
+       "rm /usr/bin/Anti-Virus",
+       "apt-get update",
+      
+   ]
+
+   for i in commands:
+         system(i)
+   print "Un-install done.We successfully remove our Anti-Virus from your system :~{"
+   tr = raw_input('Press ENTER to reboot your system and save the changes.....')
+   from os import system
+   commands = [
+       "reboot",
+   ]
+   for i in commands:
+         system(i)
+elif sh == 'n':
+   print "Thanks For abrot the uninstall process :~}"
+else:
+   print('Inviled Key selected.!!!!!!')
+   from os import system
+   commands = [
+       "python uninstaller.exe",
+   ]
+   for i in commands:
+         system(i)
+
